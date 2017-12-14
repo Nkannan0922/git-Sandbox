@@ -4,7 +4,16 @@ This changes will be for next commit.
 
 To persist the changes directly without putting the changes to the staging area
 
-Some more changes to the next commit - Creating some Conflicts....
-
 // The new changes will come here ..
 
+=======
+Some more changes to the deleted some content in this line.
+
+Including some Logic/Statements
+
+if (Committed){
+	Some statements;
+	}
+	else{ 
+	//Some statements.....
+	}
