@@ -4,4 +4,7 @@ This changes will be for next commit.
 
 To persist the changes directly without putting the changes to the staging area
 
-Some more changes to the next commit.
+Some more changes to the next commit - Creating some Conflicts....
+
+// The new changes will come here ..
+
