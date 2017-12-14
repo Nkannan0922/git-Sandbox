@@ -1,1 +1,10 @@
 This changes will be for the next commit.
+
+Started working on the new feature and not yet ready for the commit.
+
+fsdfsdfsdfdsfdf
+fdsfsdfsdfsdfsdfsd
+fsddssdgsdgdfgfdgdfg
+gdfgfdgdfgdfgfdgfdgdfg
+
+This time I'm done with my new features.
