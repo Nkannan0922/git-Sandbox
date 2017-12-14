@@ -1,5 +1,3 @@
-This changes will be for the next commit.
-
 Started working on the new feature and not yet ready for the commit.
 
 fsdfsdfsdfdsfdf
@@ -8,3 +6,6 @@ fsddssdgsdgdfgfdgdfg
 gdfgfdgdfgdfgfdgfdgdfg
 
 This time I'm done with my new features.
+
+This file is edited and pushed to remote repository.
+
