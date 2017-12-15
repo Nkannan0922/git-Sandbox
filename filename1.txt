@@ -20,4 +20,7 @@ if (Committed){
 	function add(int a, int b{
 	return a+b;
 	}
+	function multiply (int a, int b){
+	return a*b;
+	}
 
