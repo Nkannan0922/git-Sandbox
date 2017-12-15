@@ -6,3 +6,4 @@ I'm working on new feature and I'm in the midle of merging the changes from bug_
 
 Fixed some bug and committing the changes in the bug_fix.
 
+I started working on new feature.
