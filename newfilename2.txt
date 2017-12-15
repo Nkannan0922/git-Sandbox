@@ -1,3 +1,7 @@
 This changes will be for the next commit.
 
 This file is edited and pushed to remote repository.
+
+Adding a line of text to this file
+
+Adding a line of text to demonstrate amending the commit.
