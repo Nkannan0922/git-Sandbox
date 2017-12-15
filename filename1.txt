@@ -16,3 +16,8 @@ if (Committed){
 	else{ 
 	//Some statements.....
 	}
+
+	function add(int a, int b{
+	return a+b;
+	}
+
