@@ -1,7 +1,14 @@
-This changes will be for the next commit.
+Started working on the new feature and not yet ready for the commit.
+
+fsdfsdfsdfdsfdf
+fdsfsdfsdfsdfsdfsd
+fsddssdgsdgdfgfdgdfg
+gdfgfdgdfgdfgfdgfdgdfg
+
+This time I'm done with my new features.
 
 This file is edited and pushed to remote repository.
 
-Adding a line of text to this file
+Adding a line of text to demonstrate amending the committs in the master branch.
 
-Adding a line of text to demonstrate amending the commit.
+Adding some changes in the master branch.
