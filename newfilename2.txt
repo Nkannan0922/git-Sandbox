@@ -9,3 +9,5 @@ This time I'm done with my new features.
 
 This file is edited and pushed to remote repository.
 
+Adding a line of text to demonstrate amending the commit.
+
