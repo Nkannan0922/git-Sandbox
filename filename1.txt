@@ -4,9 +4,8 @@ This changes will be for next commit.
 
 To persist the changes directly without putting the changes to the staging area
 
-// The new changes will come here ..
+// The new changes will come here 
 
-=======
 Some more changes to the deleted some content in this line.
 
 Including some Logic/Statements
