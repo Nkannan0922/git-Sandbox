@@ -1,2 +1,4 @@
 Adding some lines of text.
 Committing the changes from My-Project directory.
+
+Fixed some bug and committing the changes in the bug_fix.
