@@ -1,2 +1,4 @@
 Adding some lines of text.
 Committing the changes from My-Project directory.
+
+I'm working on new feature and I'm in the midle of merging the changes from bug_fix.
