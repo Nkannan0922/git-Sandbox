@@ -5,4 +5,10 @@ Committing the changes from My-Project directory.
 I'm working on new feature and I'm in the midle of merging the changes from bug_fix.
 
 Fixed some bug and committing the changes in the bug_fix.
-
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+Updated upstream
+I started working on new feature.
+=======
+>>>>>>> Stashed changes
+This line will be stashed and popped.
